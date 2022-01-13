@@ -3,6 +3,7 @@ My research interests are:
 1. Deep Learning based Medical Image Analysis.
 2. VLSI Architecture Design and Prototyping for Machine Learning Applications
 3. Designing Hardware accelerators.
+\
 Links to different platforms
 1. [Linked In](www.linkedin.com/in/binit-kumar-pandit/)
 2. [Medium Blogs](https://binitpandit.medium.com/)
