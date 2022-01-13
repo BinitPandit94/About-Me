@@ -7,3 +7,4 @@ My research interests are:
 Connect with me on different platforms.
 1. [Linked In](https://www.linkedin.com/in/binit-kumar-pandit/)
 2. [Medium Blogs](https://binitpandit.medium.com/)
+3. [Kaggle](https://www.kaggle.com/binitkumarpandit)
