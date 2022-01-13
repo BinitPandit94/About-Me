@@ -4,5 +4,5 @@ My research interests are:
 2. VLSI Architecture Design and Prototyping for Machine Learning Applications
 3. Designing Hardware accelerators.
 Links to different platforms
-1. [Linked In] (www.linkedin.com/in/binit-kumar-pandit/)
-2. [Medium Blogs] (https://binitpandit.medium.com/)
+1. [Linked In](www.linkedin.com/in/binit-kumar-pandit/)
+2. [Medium Blogs](https://binitpandit.medium.com/)
