@@ -1,4 +1,4 @@
-My name is Binit Kumar Pandit. I'm currently working with Dr. [Ayan Banerjee](https://www.iiests.ac.in/IIEST/Faculty/telecom-ayan/) towards my Doctoral Degree at the Department of Electronics and Telecommunication Engineering, [IIEST Shibpur](https://www.iiests.ac.in/).\
+My name is Binit Kumar Pandit. I'm currently working with [Dr. Ayan Banerjee](https://www.iiests.ac.in/IIEST/Faculty/telecom-ayan/) towards my Doctoral Degree at the Department of Electronics and Telecommunication Engineering, [IIEST Shibpur](https://www.iiests.ac.in/).\
 My research interests are:
 1. Deep Learning based Medical Image Analysis.
 2. VLSI Architecture Design and Prototyping for Machine Learning Applications
